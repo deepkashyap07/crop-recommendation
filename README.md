@@ -33,5 +33,5 @@ A machine learning-based crop recommendation system that suggests the most suita
 ## 🚀 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/SahilKumar969/Crop-Recommendation-.git
-cd Crop-Recommendation-
+git clone https://github.com/deepkashyap07/crop-recommendation.git
+cd Crop-Recommendation
